@@ -1,17 +1,18 @@
 # Book Search Engine
 
+<p align="center">
+	<a href="https://book-search-engine-kjn.herokuapp.com/">
+		<img src="https://i.imgur.com/nT9LavM.png" height="40" />
+	</a>
+</p>
+
+
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
 	- [Description](#description)
 	- [Installation](#installation)
 	- [Questions](#questions)
-
-<p align="center">
-	<a href="https://book-search-engine-kjn.herokuapp.com/">
-		<img src="https://i.imgur.com/nT9LavM.png" height="40" />
-	</a>
-</p>
 
 ## Description
 
